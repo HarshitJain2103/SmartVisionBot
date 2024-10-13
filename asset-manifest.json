@@ -1,0 +1,14 @@
+{
+  "files": {
+    "main.css": "/SmartVisionBot/static/css/main.31d6cfe0.css",
+    "main.js": "/SmartVisionBot/static/js/main.c63e7b7b.js",
+    "static/js/453.981768b4.chunk.js": "/SmartVisionBot/static/js/453.981768b4.chunk.js",
+    "index.html": "/SmartVisionBot/index.html",
+    "main.c63e7b7b.js.map": "/SmartVisionBot/static/js/main.c63e7b7b.js.map",
+    "453.981768b4.chunk.js.map": "/SmartVisionBot/static/js/453.981768b4.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.31d6cfe0.css",
+    "static/js/main.c63e7b7b.js"
+  ]
+}
